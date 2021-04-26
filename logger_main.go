@@ -23,7 +23,7 @@ func init() {
 }
 
 func main() {
-	InfoLogger.Println("Starting the application...")
+	InfoLogger.Println("Starting the demo application...")
 	InfoLogger.Println("Something noteworthy happened")
 	WarningLogger.Println("There is something you should know about")
 	ErrorLogger.Println("Something went wrong")
